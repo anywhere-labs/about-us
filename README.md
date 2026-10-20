@@ -130,7 +130,7 @@ I lead community operations at Anywhere Labs, focusing on day-to-day engagement,
 
 ## Engineering Contributors
 
-<sub>Layout preview · Placeholder profiles below will be replaced with actual contributors.</sub>
+Thank you to the contributors whose expertise, dedication, and collaborative spirit help advance our projects and strengthen the Anywhere Labs open-source community.
 
 <table>
 <tr>
