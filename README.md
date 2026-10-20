@@ -56,8 +56,6 @@ Previously, I was active in the [Koishi](https://koishi.chat/) community, buildi
 <br><br>
 <strong>Founder &amp; Product Lead</strong>
 <br><br>
-<sub>创始人 / 发起人 · 产品负责人</sub>
-<br><br>
 </td>
 <td valign="top">
 
