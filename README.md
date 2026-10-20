@@ -140,6 +140,44 @@ I lead community operations at Anywhere Labs, focusing on day-to-day engagement,
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="180" align="center" valign="top">
+<br>
+<a href="https://github.com/zp-home">
+<img src="assets/avatars/zp-home.jpg" width="140" alt="zp-home's avatar">
+</a>
+<br><br>
+<strong>zp-home</strong>
+<br>
+<sub>Developer</sub>
+<br><br>
+<a href="https://github.com/zp-home">GitHub ↗</a>
+<br><br>
+</td>
+<td valign="top">
+
+### Hi, I'm zp-home
+
+I'm a developer at [Anywhere Labs](https://github.com/anywhere-labs), helping maintain [DeepSeek Harness Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) and [Agents Anywhere](https://github.com/anywhere-labs/Agents-Anywhere).
+
+**Email:** [3026418933@qq.com](mailto:3026418933@qq.com)
+
+<details>
+<summary><strong>中文介绍</strong></summary>
+
+#### 开发
+
+我在 [Anywhere Labs](https://github.com/anywhere-labs) 参与 [DeepSeek Harness Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) 与 [Agents Anywhere](https://github.com/anywhere-labs/Agents-Anywhere) 的开发与维护。
+
+**邮箱：** [3026418933@qq.com](mailto:3026418933@qq.com)
+
+</details>
+
+</td>
+</tr>
+</table>
+
 ## Join Us
 
 We welcome developers, creators, and open-source enthusiasts who share our passion for building the future of AI. Join us to exchange ideas, contribute your expertise, and build meaningful projects together.
