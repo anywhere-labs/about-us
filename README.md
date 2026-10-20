@@ -4,7 +4,7 @@
 
 Meet the core members of the Anywhere Labs open-source community.
 
-[Our GitHub](https://github.com/anywhere-labs) · [DeepSeek Harness Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)
+[Our GitHub](https://github.com/anywhere-labs) · [DeepSeek Harness Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) · [Agents Anywhere](https://github.com/anywhere-labs/Agents-Anywhere)
 
 </div>
 
@@ -36,7 +36,7 @@ Previously, I was active in the [Koishi](https://koishi.chat/) community, buildi
 <details>
 <summary><strong>中文介绍</strong></summary>
 
-#### 研发负责人
+#### 技术负责人
 
 我在 [Anywhere Labs](https://github.com/anywhere-labs) 开发开源 AI 基础设施与开发者工具，主导 [DeepSeek Harness Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) 的技术方向，承担主要工程实现，并负责外部贡献者协作与开发者关系。
 
@@ -58,7 +58,7 @@ Previously, I was active in the [Koishi](https://koishi.chat/) community, buildi
 <br><br>
 <strong>Benson Wang</strong>
 <br>
-<sub>Product Lead</sub>
+<sub>Head of Product</sub>
 <br><br>
 <a href="https://github.com/Bensonwang-owl">GitHub ↗</a>
 <br><br>
@@ -96,7 +96,7 @@ I continue to build open-source AI agents and am currently working on a startup 
 <br>
 <strong>Olando</strong>
 <br>
-<sub>Head of Community Operations</sub>
+<sub>Head of Community</sub>
 <br><br>
 <a href="https://me.dufengyun.xyz">Website ↗</a>
 <br><br>
@@ -114,7 +114,7 @@ I lead community operations at Anywhere Labs, focusing on day-to-day engagement,
 <details>
 <summary><strong>中文介绍</strong></summary>
 
-#### 社区运营负责人
+#### 社区负责人
 
 我是 Olando（杜亮宽），项目早期联合发起者之一，在 Anywhere Labs 主要负责社区运营、社群维护与生态增长，推动社区日常交流与持续发展。
 
