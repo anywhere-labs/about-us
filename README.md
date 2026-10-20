@@ -52,11 +52,15 @@ Previously, I was active in the [Koishi](https://koishi.chat/) community, buildi
 <tr>
 <td width="180" align="center" valign="top">
 <br>
+<a href="https://github.com/Bensonwang-owl">
 <img src="assets/avatars/founder.jpg" width="140" alt="Benson Wang's portrait">
+</a>
 <br><br>
 <strong>Benson Wang</strong>
 <br>
 <sub>Founder &amp; Product Lead</sub>
+<br><br>
+<a href="https://github.com/Bensonwang-owl">GitHub ↗</a>
 <br><br>
 </td>
 <td valign="top">
