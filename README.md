@@ -33,6 +33,8 @@ I build open-source AI infrastructure and developer tools at [Anywhere Labs](htt
 
 Previously, I was active in the [Koishi](https://koishi.chat/) community, building plugins and community infrastructure. Both Koishi and DeepSeek Harness are built on [Cordis](https://github.com/cordiverse/cordis), making plugin architecture a recurring focus of my work.
 
+**Email:** [t4wefan@qq.com](mailto:t4wefan@qq.com)
+
 <details>
 <summary><strong>中文介绍</strong></summary>
 
@@ -41,6 +43,8 @@ Previously, I was active in the [Koishi](https://koishi.chat/) community, buildi
 我在 [Anywhere Labs](https://github.com/anywhere-labs) 开发开源 AI 基础设施与开发者工具，主导 [DeepSeek Harness Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) 的技术方向，承担主要工程实现，并负责外部贡献者协作与开发者关系。
 
 此前，我长期参与 [Koishi](https://koishi.chat/) 社区，开发插件与社区基础设施。Koishi 与 DeepSeek Harness 均基于 [Cordis](https://github.com/cordiverse/cordis) 构建，插件架构也始终是我持续探索与实践的方向。
+
+**邮箱：** [t4wefan@qq.com](mailto:t4wefan@qq.com)
 
 </details>
 
@@ -73,6 +77,8 @@ Born in 2006, I'm a second-year computer science student currently on a leave of
 
 I continue to build open-source AI agents and am currently working on a startup focused on AI agents for finance.
 
+**Email:** [benson@jiuxiangxian.com](mailto:benson@jiuxiangxian.com)
+
 <details>
 <summary><strong>中文介绍</strong></summary>
 
@@ -83,6 +89,8 @@ I continue to build open-source AI agents and am currently working on a startup 
 2006 年生，计算机专业大二，目前休学在北京创业。曾任字节跳动抖音搜索算法实习生、清华大学智能产业研究院（AIR）研究助理，研究方向为视觉—语言—动作（VLA）模型。
 
 持续参与 AI Agent 开源建设，目前正围绕金融领域的 AI Agent 创业。
+
+**邮箱：** [benson@jiuxiangxian.com](mailto:benson@jiuxiangxian.com)
 
 </details>
 
