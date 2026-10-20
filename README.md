@@ -52,14 +52,16 @@ Previously, I was active in the [Koishi](https://koishi.chat/) community, buildi
 <tr>
 <td width="180" align="center" valign="top">
 <br>
-<img src="assets/avatars/founder.jpg" width="140" alt="Portrait of the founder and product lead">
+<img src="assets/avatars/founder.jpg" width="140" alt="Benson Wang's portrait">
 <br><br>
-<strong>Founder &amp; Product Lead</strong>
+<strong>Benson Wang</strong>
+<br>
+<sub>Founder &amp; Product Lead</sub>
 <br><br>
 </td>
 <td valign="top">
 
-### Founder & Product Lead
+### Hi, I'm Benson Wang
 
 I founded [DSH Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) and lead product at [Anywhere Labs](https://github.com/anywhere-labs). I shape our product direction and take primary responsibility for product definition—identifying user needs and turning them into clear priorities and feature requirements.
 
