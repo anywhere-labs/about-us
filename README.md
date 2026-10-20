@@ -127,3 +127,56 @@ I lead community operations at Anywhere Labs, focusing on day-to-day engagement,
 </td>
 </tr>
 </table>
+
+## Engineering Contributors
+
+<sub>Layout preview · Placeholder profiles below will be replaced with actual contributors.</sub>
+
+<table>
+<tr>
+<td width="25%" align="center">
+<br>
+<a href="https://github.com/anywhere-labs">
+<img src="assets/avatars/contributor-demo.svg" width="80" height="80" alt="Demo contributor avatar">
+</a>
+<br><br>
+<strong>Contributor One</strong>
+<br><br>
+<a href="https://github.com/anywhere-labs">GitHub ↗</a>
+<br><br>
+</td>
+<td width="25%" align="center">
+<br>
+<a href="https://github.com/anywhere-labs">
+<img src="assets/avatars/contributor-demo.svg" width="80" height="80" alt="Demo contributor avatar">
+</a>
+<br><br>
+<strong>Contributor Two</strong>
+<br><br>
+<a href="https://github.com/anywhere-labs">GitHub ↗</a>
+<br><br>
+</td>
+<td width="25%" align="center">
+<br>
+<a href="https://github.com/anywhere-labs">
+<img src="assets/avatars/contributor-demo.svg" width="80" height="80" alt="Demo contributor avatar">
+</a>
+<br><br>
+<strong>Contributor Three</strong>
+<br><br>
+<a href="https://github.com/anywhere-labs">GitHub ↗</a>
+<br><br>
+</td>
+<td width="25%" align="center">
+<br>
+<a href="https://github.com/anywhere-labs">
+<img src="assets/avatars/contributor-demo.svg" width="80" height="80" alt="Demo contributor avatar">
+</a>
+<br><br>
+<strong>Contributor Four</strong>
+<br><br>
+<a href="https://github.com/anywhere-labs">GitHub ↗</a>
+<br><br>
+</td>
+</tr>
+</table>
