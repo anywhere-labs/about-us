@@ -69,7 +69,7 @@ Previously, I was active in the [Koishi](https://koishi.chat/) community, buildi
 
 I founded [DSH Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) and lead product at [Anywhere Labs](https://github.com/anywhere-labs). I shape our product direction and take primary responsibility for product definition—identifying user needs and turning them into clear priorities and feature requirements.
 
-Born in 2006, I'm a second-year computer science student currently on a leave of absence to pursue opportunities in Beijing. Previously, I interned on search algorithms for Douyin at ByteDance and worked as a research assistant at Tsinghua University's Institute for AI Industry Research (AIR), focusing on vision-language-action (VLA) models.
+Born in 2006, I'm a second-year computer science student currently on a leave of absence to build a startup in Beijing. Previously, I interned on search algorithms for Douyin at ByteDance and worked as a research assistant at Tsinghua University's Institute for AI Industry Research (AIR), focusing on vision-language-action (VLA) models.
 
 I continue to build open-source AI agents and am currently working on a startup focused on AI agents for finance.
 
@@ -80,7 +80,7 @@ I continue to build open-source AI agents and am currently working on a startup 
 
 我是 [DSH Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) 的发起人，在 [Anywhere Labs](https://github.com/anywhere-labs) 主要负责产品工作，主导产品方向，承担绝大多数产品定义工作，包括用户需求梳理、功能规划与优先级制定。
 
-2006 年生，计算机专业大二，目前休学在北京探索创业。曾任字节跳动抖音搜索算法实习生、清华大学智能产业研究院（AIR）研究助理，研究方向为视觉—语言—动作（VLA）模型。
+2006 年生，计算机专业大二，目前休学在北京创业。曾任字节跳动抖音搜索算法实习生、清华大学智能产业研究院（AIR）研究助理，研究方向为视觉—语言—动作（VLA）模型。
 
 持续参与 AI Agent 开源建设，目前正围绕金融领域的 AI Agent 创业。
 
