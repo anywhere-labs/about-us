@@ -20,7 +20,7 @@ Meet the core members of the Anywhere Labs open-source community.
 <br><br>
 <strong>t4wefan</strong>
 <br>
-<sub>Co-initiator &amp; Head of Engineering</sub>
+<sub>Head of Engineering</sub>
 <br><br>
 <a href="https://github.com/t4wefan">GitHub ↗</a>
 <br><br>
@@ -36,7 +36,7 @@ Previously, I was active in the [Koishi](https://koishi.chat/) community, buildi
 <details>
 <summary><strong>中文介绍</strong></summary>
 
-#### 发起人、研发负责人
+#### 研发负责人
 
 我在 [Anywhere Labs](https://github.com/anywhere-labs) 开发开源 AI 基础设施与开发者工具，主导 [DeepSeek Harness Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) 的技术方向，承担主要工程实现，并负责外部贡献者协作与开发者关系。
 
@@ -58,7 +58,7 @@ Previously, I was active in the [Koishi](https://koishi.chat/) community, buildi
 <br><br>
 <strong>Benson Wang</strong>
 <br>
-<sub>Founder &amp; Product Lead</sub>
+<sub>Product Lead</sub>
 <br><br>
 <a href="https://github.com/Bensonwang-owl">GitHub ↗</a>
 <br><br>
@@ -76,7 +76,7 @@ I continue to build open-source AI agents and am currently working on a startup 
 <details>
 <summary><strong>中文介绍</strong></summary>
 
-#### 发起人、产品负责人
+#### 产品负责人
 
 我是 [DSH Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) 的发起人，在 [Anywhere Labs](https://github.com/anywhere-labs) 主要负责产品工作，主导产品方向，承担绝大多数产品定义工作，包括用户需求梳理、功能规划与优先级制定。
 
