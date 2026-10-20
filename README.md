@@ -94,6 +94,10 @@ I continue to build open-source AI agents and am currently working on a startup 
 <tr>
 <td width="180" align="center" valign="top">
 <br>
+<a href="https://me.dufengyun.xyz">
+<img src="assets/avatars/olando.jpg" width="140" alt="Olando's portrait">
+</a>
+<br><br>
 <strong>Olando</strong>
 <br>
 <sub>Head of Community</sub>
