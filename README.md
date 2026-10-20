@@ -76,7 +76,7 @@ I continue to build open-source AI agents and am currently working on a startup 
 <details>
 <summary><strong>中文介绍</strong></summary>
 
-#### 创始人 / 发起人、产品负责人
+#### 发起人、产品负责人
 
 我是 [DSH Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) 的发起人，在 [Anywhere Labs](https://github.com/anywhere-labs) 主要负责产品工作，主导产品方向，承担绝大多数产品定义工作，包括用户需求梳理、功能规划与优先级制定。
 
