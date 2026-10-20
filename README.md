@@ -192,3 +192,9 @@ Thank you to the contributors whose expertise, dedication, and collaborative spi
 </td>
 </tr>
 </table>
+
+## Join Us
+
+We welcome developers, creators, and open-source enthusiasts who share our passion for building the future of AI. Join us to exchange ideas, contribute your expertise, and build meaningful projects together.
+
+**Get in touch:** [benson@jiuxiangxian.com](mailto:benson@jiuxiangxian.com)
