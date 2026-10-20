@@ -92,11 +92,37 @@ I continue to build open-source AI agents and am currently working on a startup 
 
 <table>
 <tr>
+<td width="180" align="center" valign="top">
+<br>
+<strong>Olando</strong>
+<br>
+<sub>Head of Community Operations</sub>
+<br><br>
+<a href="https://me.dufengyun.xyz">Website ↗</a>
+<br><br>
+</td>
 <td valign="top">
 
-### Member profile · Coming soon
+### Hi, I'm Olando (Du Liangkuan)
 
-Name, role, and introduction to follow.
+I lead community operations at Anywhere Labs, focusing on day-to-day engagement, community support, and ecosystem growth. As one of the project's early co-initiators, I help maintain an active community and support its continued growth.
+
+**Email:** [2330304961@qq.com](mailto:2330304961@qq.com)
+
+**Website:** [me.dufengyun.xyz](https://me.dufengyun.xyz)
+
+<details>
+<summary><strong>中文介绍</strong></summary>
+
+#### 社区运营负责人
+
+我是 Olando（杜亮宽），项目早期联合发起者之一，在 Anywhere Labs 主要负责社区运营、社群维护与生态增长，推动社区日常交流与持续发展。
+
+**邮箱：** [2330304961@qq.com](mailto:2330304961@qq.com)
+
+**个人站点：** [me.dufengyun.xyz](https://me.dufengyun.xyz)
+
+</details>
 
 </td>
 </tr>
