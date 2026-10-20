@@ -29,8 +29,6 @@ Meet the core members of the Anywhere Labs open-source community.
 
 ### Hi, I'm t4wefan
 
-**Open-source AI infrastructure · Developer tools · Plugin ecosystems**
-
 I build open-source AI infrastructure and developer tools at [Anywhere Labs](https://github.com/anywhere-labs). I lead our technical direction and carry out most of the engineering for [DeepSeek Harness Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop), while also coordinating external contributions and developer relations.
 
 Previously, I was active in the [Koishi](https://koishi.chat/) community, building plugins and community infrastructure. Both Koishi and DeepSeek Harness are built on [Cordis](https://github.com/cordiverse/cordis), making plugin architecture a recurring focus of my work.
@@ -64,8 +62,6 @@ Previously, I was active in the [Koishi](https://koishi.chat/) community, buildi
 <td valign="top">
 
 ### Founder & Product Lead
-
-**Product direction · Open-source AI agents · AI for finance**
 
 I founded [DSH Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) and lead product at [Anywhere Labs](https://github.com/anywhere-labs). I shape our product direction and take primary responsibility for product definition—identifying user needs and turning them into clear priorities and feature requirements.
 
