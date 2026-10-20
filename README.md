@@ -20,7 +20,7 @@ Meet the core members of the Anywhere Labs open-source community.
 <br><br>
 <strong>t4wefan</strong>
 <br>
-<sub>Head of Engineering</sub>
+<sub>Co-initiator &amp; Head of Engineering</sub>
 <br><br>
 <a href="https://github.com/t4wefan">GitHub ↗</a>
 <br><br>
@@ -36,7 +36,7 @@ Previously, I was active in the [Koishi](https://koishi.chat/) community, buildi
 <details>
 <summary><strong>中文介绍</strong></summary>
 
-#### 研发负责人
+#### 发起人、研发负责人
 
 我在 [Anywhere Labs](https://github.com/anywhere-labs) 开发开源 AI 基础设施与开发者工具，主导 [DeepSeek Harness Desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) 的技术方向，承担主要工程实现，并负责外部贡献者协作与开发者关系。
 
